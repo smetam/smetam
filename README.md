@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!-- # 💫 About Me: -->
-- 🔮 I am Data Scientist and Machine Learning Engineer.
+- 🔮 I’m currently working as a Machine Learning Engineer.
+- 🔨 I have 5+ years of experience developing ML solutions end-to-end.
 - 📚 Master's Degree in Computer Science and Applied Mathematics.
-- 🔭 Currently working on payment fraud. Experienced in demand forecasting.
+- 🔭 My current focus is on payment fraud detection at Picnic Technologies.
+- 👔 Previously I worked on:
+  - Demand forecasting for Pepsico & FritoLay.
+  - Recommender Systems for AS Watson Group.
+- 🌱 I’m currently learning 🦀 Rust.
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smetam) 
