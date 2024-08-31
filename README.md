@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📚 Master's Degree in Computer Science and Applied Mathematics.
 - 🔭 My current focus is on payment fraud detection at Picnic Technologies.
 - 👔 Previously I worked on:
-  - Demand forecasting for Pepsico & FritoLay.
-  - Recommender Systems for AS Watson Group.
+  - Time series forecasting.
+  - Recommender systems.
 - 🌱 I’m currently learning 🦀 Rust.
   
 
