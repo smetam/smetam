@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- # 💫 About Me: -->
+# 💫 About Me:
 - 🔮 I’m currently working as a Machine Learning Engineer.
-- 🔨 I have 5+ years of experience developing ML solutions end-to-end.
+- 🔨 I have 6+ years of experience designing and developing ML solutions end-to-end.
 - 📚 Master's Degree in Computer Science and Applied Mathematics.
-- 🔭 My current focus is on payment fraud detection at Picnic Technologies.
+- 🔭 My current focus is on Recommendation Systems at Picnic Technologies.
 - 👔 Previously I worked on:
   - Time series forecasting.
-  - Recommender systems.
+  - Payment fraud detection.
 - 🌱 I’m currently learning 🦀 Rust.
   
 
